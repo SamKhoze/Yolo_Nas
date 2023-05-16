@@ -1,0 +1,5 @@
+pip install super-gradients==3.1.0
+pip install imutils
+pip install roboflow
+pip install pytube --upgrade
+pip install torchinfo
